@@ -1,1 +1,2 @@
 Feature1 file
+Perform the changes for Feature1 after doing the stash
